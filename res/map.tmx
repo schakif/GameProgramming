@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="26" height="26" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="pokemon_map" tilewidth="32" tileheight="32">
+  <image source="pokemon_map.png" width="960" height="640"/>
+ </tileset>
+ <layer name="Tile Layer" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NmYGBgAWJmGtOKQKxEB5rW/hj1z6h/Rv0z6p9R/4z6Z9Q/o/4Z9Q91aQAedA8tkAoAAA==
+  </data>
+ </layer>
+ <layer name="Path" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgQAAHJgYGRyYGmoNRe6hnjwgjA4MoEItDsQQeDJMnxx4joD4ZIE5mIIxB6ogJD1z2EBuWDxiGlz3/Ru0ZNPa0YTGTFvYsoZM9Q9k/MkjlG6wMw1bGUGJPAI6yLQ2KkcEDCuwhBVDiH1LAAzrZQ6x/QGkVPc6JxbjSBjaQRAEGpY10KD0KqAcApyBZiJAKAAA=
+  </data>
+ </layer>
+ <layer name="Objects" width="26" height="26">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWjYBSMAvKBCBCLQrEYDe0xAmJjKDahoT2jYBSMglEwCugPAGdaXUqQCgAA
+  </data>
+ </layer>
+</map>

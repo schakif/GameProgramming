@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="pokemon_map" tilewidth="32" tileheight="32">
+  <image source="Chase/res/pokemon_map.png" width="960" height="640"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA72WbQ6CMAyGKSaeQP0tBC+gHoCo5+Akfh3XYzjiFut43dZR+NG8SmH06UrXsiiKhbGWPloae1ldTKhbY5V9b2X/v9h1rmdKtwsNn+fq3t8x3iUN4+P5SFW0js/bsfj6+/342kj8SNE6Ul7ffwN2p9+8SHkbEGfMj/Ii5T39qRPnbwIcUl7J/oU4xvDGVJP3au55JNgzkpfW1lYqr5b2eesonVdLpfvbq6QP+rU+Rz0jbSiPN6f/cm0oj5f3o5S6drU9ljfWn5HWpMuL4lwZW1vb2Os14I2tE+JF/Whv7GDtOBEvOm9az7+jb1/S2l/Ei84r/t1Oxcv9SOfgner7Rbz9eeVmGa7uN6oDab9C84akV+fyamloDsuZNzTmkn/7N9bukfxpzxupqrmfEn0DoPaH7BAOAAA=
+  </data>
+ </layer>
+ <layer name="Path" width="30" height="30">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+1W0Q0CIQwtN4NKokzhBLqKJuokTuIkDmYs0UZyqdBij/ODl7xwyQEv71reAfDBbgDYD9Ac/6q7cABL5CpDj1wjN85Od4t7XXA8II+ZMc7RfLeSrrQO15l0b8a6D+F+9wrdWBvveAY3jd9zgdQ3JWj9WkHr1wrdbx5pDvrMM+VgOqbQ+qUcPMGrf0tjJJeJNedXWxdujXVeSdd0v7/pcu9b+JXqTuE3jM4u94+y9vvtjhNGudGinzm06GcONX7Du3ZUvxpK7yWEOJ/L4Fp2zI8nGjckChAOAAA=
+  </data>
+ </layer>
+</map>
